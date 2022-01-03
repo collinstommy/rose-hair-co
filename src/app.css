@@ -1,0 +1,16 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h2 {
+  font-family: 'Baskerville';
+  @apply text-3xl
+}
+
+@screen md {
+  h2 {
+    @apply text-4xl
+  }
+}
