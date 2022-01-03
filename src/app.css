@@ -3,14 +3,28 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body, #svelte {
+  width: 100%;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif;
+}
 
 h2 {
-  font-family: 'Baskerville';
   @apply text-3xl
+}
+
+h3 {
+  @apply text-2xl
 }
 
 @screen md {
   h2 {
     @apply text-4xl
+  }
+
+  h3 {
+    @apply text-3xl
   }
 }
