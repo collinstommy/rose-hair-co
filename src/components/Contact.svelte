@@ -38,7 +38,7 @@
 		<div class="mb-7 md:mb-12">
 			<h2 class="mb-4">Book an appointment</h2>
 			<p>
-				<a href="tel:604 888 888"><span class="font-bold">Text: </span>604 888 888</a>
+				<a href="tel:239 900 6980"><span class="font-bold">Text: </span>239 900 6980</a>
 			</p>
 		</div>
 	</div>
