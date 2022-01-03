@@ -6,6 +6,5 @@
 </script>
 
 <Hero />
-<Bio />
 <Photos />
 <Contact />

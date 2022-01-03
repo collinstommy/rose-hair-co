@@ -23,6 +23,14 @@
 	</div>
 	<div>
 		<div class="mb-7 md:mb-12">
+			<h2 id="appointment" class="mb-4">Book an appointment</h2>
+			<p>
+				<a class="text-lg under" href="sms:239 900 6980"
+					><span class="font-bold">Text: </span><span class="underline">239 900 6980</span></a
+				>
+			</p>
+		</div>
+		<div class="mb-7 md:mb-12">
 			<h2 class="mb-4">Address</h2>
 			<p>
 				1429 Colonial Blvd Suite 102<br />
@@ -33,13 +41,7 @@
 		<div class="mb-7 md:mb-12">
 			<h2 class="mb-4">Opening Hours</h2>
 			<p><span class="font-bold">Open: </span>Tuesday - Saturday</p>
-			<p><span class="font-bold">Closed: </span>Sunday - Monday</p>
-		</div>
-		<div class="mb-7 md:mb-12">
-			<h2 class="mb-4">Book an appointment</h2>
-			<p>
-				<a href="sms:239 900 6980"><span class="font-bold">Text: </span>239 900 6980</a>
-			</p>
+			<p><span class="font-bold">Closed: </span>Sunday & Monday</p>
 		</div>
 	</div>
 	<div />
