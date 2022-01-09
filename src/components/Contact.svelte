@@ -15,6 +15,7 @@
 		<h2 class="mb-4">Location</h2>
 		<div class="gmap">
 			<iframe
+				loading="lazy"
 				title="Rose hair company location"
 				width="100%"
 				height="300"
