@@ -33,12 +33,6 @@
 		<div class="mb-6 mt-4">
 			<h3 class="mb-2">Hair</h3>
 			<AppointmentLink phone="239 900 6980" name="Lauren" />
-			<AppointmentLink phone="239 292 5182" name="Arri" />
-			<AppointmentLink phone="239 240 0815" name="Nicole" />
-		</div>
-		<div>
-			<h3 class="mb-2">Tattoo</h3>
-			<AppointmentLink phone="786 532 5197" name="Kim" />
 		</div>
 	</div>
 	<div class="address-hours">
